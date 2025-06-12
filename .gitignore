@@ -1,3 +1,7 @@
 data/weather_test/
 data/weather_train/
 data/weather_validation/
+ResNet5098.keras
+ResNet5098.weights.h5
+# Ignore the model files
+saved_models/
